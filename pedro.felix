@@ -1,0 +1,36 @@
+<html>
+  <body style="background-color:#261C2C">
+            <meta charset="utf-8">
+      <head>
+       <p> <img src="https://i.postimg.cc/SxyXdRvz/imagem-2021-09-01-210011.png" widght="45%" height="70%"> <p>
+        
+ <p><h2 style="color:#39A9CB;"> Pedro Félix Pereira Neto<p>
+    
+<h1 style="color:#39A9CB;" align="center">MEUS </h1> <p>
+<h1 style="color:#39A9CB;" align="center">HOBBIES</h1> <p>
+
+   
+    <a href="https://www.psicologoeterapia.com.br/psicologo-ajuda-emocional/beneficios-de-ter-um-hobby/" target="blank" style="color:#FF2626;"> 👉 Antes de começar veja os benefícios de ter um hobby</a>
+   
+    <h3 style="color:#80ED99;" align=>Eu sou o Pedro Félix Pereira Neto, tenho 16 anos, estudo no CEMIC e na quarentena eu comecei a praticar um novo hobby, em setembro do ano passado eu comecei a fazer musculação, e acabei gostando, desde lá já emagreci bastante já perdi 12 kg e junto a isso ganhei um pouco de massa muscular. <p>
+   
+    <h3 style="color:#80ED99;" align=>Antes da quarentena eu gostava de jogar basquete e vôlei com meus amigos, mas ai com o isolamento social não foi possível praticar esses esportes, e acabei optando por outro hobby que gosto que é andar de bicicleta, meu irmão mais novo quase sempre pedia para ir comigo, nós íamos para um bosque super tranquilo que tem aqui perto de casa. <p> 
+      <img alt="basquete"align="center"src="https://i.postimg.cc/tTtY9Kr8/imagem-2021-09-01-213054.png" widght="45%" height="70%">  <p/>
+   
+
+ <h3 style="color:#80ED99;" align=>E com mais tempo livre na quarentena, eu também passei mais tempo com a minha familia e comecei a jogar com mais frequência jogos online como Paladins, Forza Horizon 4, Fortnite e Rocket League <p>
+   <img src="https://i.postimg.cc/d1vGRmgP/200w-gif-cid-82a1493bzlnze7nzhqpo1p382v80hcigxeg7hje5d6sd23zv-rid-200w.gif" widght="55%" height="88%"  
+  <p>
+    
+ <form> 
+   <label class="tituloh">Coloque a opção que você mais gosta de fazer</label>
+   <select id="opcoes">
+       <option selected="" disabled="" value=""></option>
+       <option>Praticar esportes </option>
+       <option>Leitura</option>
+       <option>Assistir séries e filmes</option>
+       <option>Outros </option>
+  </select> <p>
+   
+    <a href="https://youtu.be/EiaJF5_5blk" style="color:#FF2626;"> 👉 Assista a esse vídeo e veja novas ideias de passatempo  </a>
+  <p>
